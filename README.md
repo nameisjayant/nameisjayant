@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on youtube
 
-💬 Ask me about any thing related to android development
+💬 Ask me about any thing related to android and web development
 
 Website http://www.codingwithjks.tech/
 
