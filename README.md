@@ -10,8 +10,8 @@
 
 💬 Ask me about any thing related to android and web development
 
-Website http://www.codingwithjks.tech/
+<a href="http://www.codingwithjks.tech/"> website </a>
 
-youtube channel https://www.youtube.com/channel/UCh-Fj7SM6f2QrF6Ans6pUqQ?view_as=subscriber
+ <a href="https://www.youtube.com/channel/UCh-Fj7SM6f2QrF6Ans6pUqQ?view_as=subscriber"> youtube </a>
 
-instagram https://www.instagram.com/programming_simplified/
+<a href="https://www.instagram.com/programming_simplified/"> Instagram </a>
