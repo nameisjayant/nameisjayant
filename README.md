@@ -16,10 +16,6 @@
 
 <a href="https://www.instagram.com/programming_simplified/"> Instagram </a>
 
-<style>
- h1{
-  color:'red'
- }
- </style>
 
-<h1> Hello world </h1>
+
+<h1 style={color:'red'}> Hello world </h1>
