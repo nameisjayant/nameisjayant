@@ -19,11 +19,15 @@
 <html>
  
  <head>
- 
+ <style>
+  h1{
+  color:'red'
+  }
+  </style>
  </head>
  
  <body>
- <h1 style={color:'red'}> Hello world </h1>
+ <h1> Hello world </h1>
  </body>
  
  </html>
