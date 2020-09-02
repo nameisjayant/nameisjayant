@@ -16,4 +16,6 @@
 
 <a href="https://www.instagram.com/programming_simplified/"> Instagram </a>
 
+<a href="https://medium.com/@nameisjayant/"> Medium </a>
+
 
