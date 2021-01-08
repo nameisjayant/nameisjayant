@@ -18,4 +18,6 @@
 
 <a href="https://medium.com/@nameisjayant/"> Medium </a>
 
+<a href="https://www.linkedin.com/in/jayant-kumar-262597171/"> Linkedin </a>
+
 
