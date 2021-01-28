@@ -20,7 +20,7 @@
 
 <a href="https://www.linkedin.com/in/jayant-kumar-262597171/"> Linkedin </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aashishkumar123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=nameisjayant&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
