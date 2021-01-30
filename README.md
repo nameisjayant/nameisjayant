@@ -23,11 +23,10 @@
 <a href="https://www.linkedin.com/in/jayant-kumar-262597171/"> Linkedin </a>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&layout=compact" alt="agamkoradiya" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&layout=compact" alt="agamkoradiya" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=nameisjayant&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=nameisjayant&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&theme=white-blue" alt="agamkoradiya" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&theme=black-blue" alt="nameisjayant"/>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nameisjayant&show_icons=true" alt="jayant" /></p>
 
