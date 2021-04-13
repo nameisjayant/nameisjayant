@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on android development with kotlin
 
-🌱 I’m currently learning Flutter and ReactNative
+🌱 I’m currently learning Nodejs and Reactjs
 
 👯 I’m looking to collaborate on youtube
 
@@ -21,6 +21,8 @@
 <a href="https://medium.com/@nameisjayant/"> Medium </a>
 
 <a href="https://www.linkedin.com/in/jayant-kumar-262597171/"> Linkedin </a>
+<a href="https://stackoverflow.com/users/9741578/jayantkumar"> Linkedin </a>
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&layout=compact" alt="agamkoradiya" />
