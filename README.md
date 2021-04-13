@@ -21,7 +21,8 @@
 <a href="https://medium.com/@nameisjayant/"> Medium </a>
 
 <a href="https://www.linkedin.com/in/jayant-kumar-262597171/"> Linkedin </a>
-<a href="https://stackoverflow.com/users/9741578/jayantkumar"> Linkedin </a>
+
+<a href="https://stackoverflow.com/users/9741578/jayantkumar"> StackOverFlow </a>
 
 
 
