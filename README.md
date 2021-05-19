@@ -1,5 +1,5 @@
 
-<center> <img src="https://github.com/nameisjayant/Paging3-with-RoomDatabase-and-Retrofit-in-Android-Kotlin/blob/master/IMG_20210519_201158.jpg" align="center" height="200px"/>  </center>
+<center> <img src="https://github.com/nameisjayant/Paging3-with-RoomDatabase-and-Retrofit-in-Android-Kotlin/blob/master/IMG_20210519_201158.jpg" align="center" height="350px"/>  </center>
 
 ### # Hi there👋! I'm [jayant]
 
