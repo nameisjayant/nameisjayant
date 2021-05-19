@@ -2,19 +2,16 @@
 
 ### Hi there 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nameisjayant" alt="agamkoradiya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nameisjayant" alt="jayant" /> </p>
 
-🔭 I’m currently working on android development with kotlin
+_**LATEST UPDATE:**_ Learning Ktor backend and jetpack compose 
 
-🌱 I’m currently learning Nodejs and Reactjs
+- 👨‍🎓 22 year old computer science engineer.
+- 👨‍💻 ***#SelfTaught*** Developer.
+- 📱 Mobile App developer.
+- 😍 Loves to write blogs ❤️
 
-👯 I’m looking to collaborate on youtube
-
-💬 Ask me about any thing related to android and web development
-
-<a href="http://www.codingwithjks.tech/"> website </a>
-
- <a href="https://www.youtube.com/channel/UCh-Fj7SM6f2QrF6Ans6pUqQ?view_as=subscriber"> youtube </a>
+<a href="https://www.youtube.com/channel/UCh-Fj7SM6f2QrF6Ans6pUqQ?view_as=subscriber"> youtube </a>
 
 <a href="https://www.instagram.com/programming_simplified/"> Instagram </a>
 
