@@ -10,7 +10,7 @@ _**LATEST UPDATE:**_ Learning Ktor for backend and jetpack compose
 - 📱 Mobile App developer.
 - 😍 Loves to write blogs ❤️
 
-<a href="https://www.youtube.com/channel/UCh-Fj7SM6f2QrF6Ans6pUqQ?view_as=subscriber"> </a>
+<a href="https://www.youtube.com/channel/UCh-Fj7SM6f2QrF6Ans6pUqQ?view_as=subscriber">youtube</a>
           
 <a href="https://www.instagram.com/programming_simplified/"> Instagram </a>
 
