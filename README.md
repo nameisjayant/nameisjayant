@@ -1,8 +1,7 @@
 <p align="center">
 <img src="https://github.com/nameisjayant/Paging3-with-RoomDatabase-and-Retrofit-in-Android-Kotlin/blob/master/IMG_20210519_201158-removebg-preview.png" height="350px"/> </p>
 
-### # Hi there👋! I'm [jayant]
-
+### # Hi there👋! I'm jayant 😇
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nameisjayant" alt="jayant" /> </p>
 
 _**LATEST UPDATE:**_ Learning Ktor for backend and jetpack compose 
