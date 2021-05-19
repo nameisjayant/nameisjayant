@@ -1,10 +1,9 @@
-# jayant kumar
 
-### Hi there 👋
+### # Hi there👋! I'm [jayant]
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nameisjayant" alt="jayant" /> </p>
 
-_**LATEST UPDATE:**_ Learning Ktor backend and jetpack compose 
+_**LATEST UPDATE:**_ Learning Ktor for backend and jetpack compose 
 
 - 👨‍🎓 22 year old computer science engineer.
 - 👨‍💻 ***#SelfTaught*** Developer.
