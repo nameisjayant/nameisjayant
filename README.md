@@ -4,7 +4,7 @@
 ### # Hi there👋! I'm jayant 😇
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nameisjayant" alt="jayant" /> </p>
 
-_**LATEST UPDATE:**_ Learning iOs development , kotlin multiplatform & jetpack compose :)
+_**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpack compose :) </i>
 
 - 👨‍🎓 22 year old computer science engineer.
 - 👨‍💻 ***#SelfTaught*** Developer.
