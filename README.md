@@ -7,7 +7,7 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
 - 👨‍🎓 22 year old computer science engineer.
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 📱 Mobile App developer.
-- 😍 Loves to write blogs ❤️
+- 😍 Loves to write blogs and record videos for youtube ❤️
 
 <a href="https://www.youtube.com/channel/UCh-Fj7SM6f2QrF6Ans6pUqQ?view_as=subscriber">youtube</a>
           
