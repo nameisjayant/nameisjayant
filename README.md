@@ -28,10 +28,10 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
 <a href="https://instagram.com/programming_simplified" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naphl_" height="30" width="40" /></a>
           <a href="https://medium.com/@nameisjayant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="anaf naufalian" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/jayant-kumar-262597171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="anaf naufalian" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9741578/jayantkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" alt="anaf naufalian" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayant-kumar-262597171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9741578/jayantkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" alt="Stackoverflow" height="30" width="40" /></a>
 
-
+</p>
 
 
 
