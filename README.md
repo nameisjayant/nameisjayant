@@ -9,17 +9,6 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
 - 📱 Mobile App developer.
 - 😍 Loves to write blogs and record videos for youtube ❤️
 
-<a href="https://www.youtube.com/channel/UCh-Fj7SM6f2QrF6Ans6pUqQ?view_as=subscriber">youtube</a>
-          
-<a href="https://www.instagram.com/programming_simplified/"> Instagram </a>
-
-<a href="https://medium.com/@nameisjayant/"> Medium </a>
-
-<a href="https://www.linkedin.com/in/jayant-kumar-262597171/"> Linkedin </a>
-
-<a href="https://stackoverflow.com/users/9741578/jayantkumar"> StackOverFlow </a>
-
-
 **Connect with me**
 <p align="left">
           
@@ -28,8 +17,9 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
 <a href="https://instagram.com/programming_simplified" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naphl_" height="30" width="40" /></a>
           <a href="https://medium.com/@nameisjayant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="anaf naufalian" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/jayant-kumar-262597171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9741578/jayantkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" alt="Stackoverflow" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayant-kumar-262597171/"> Linkedin </a>
+
+<a href="https://stackoverflow.com/users/9741578/jayantkumar"> StackOverFlow </a>
 
 </p>
 
