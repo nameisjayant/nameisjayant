@@ -20,6 +20,24 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
 <a href="https://stackoverflow.com/users/9741578/jayantkumar"> StackOverFlow </a>
 
 
+**Connect with me**
+<p align="left">
+          
+<a href="https://www.youtube.com/channel/UCh-Fj7SM6f2QrF6Ans6pUqQ?view_as=subscriber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anaf naufalian" height="30" width="40" /></a>
+</p>
+
+<a href="https://twitter.com/nameisjayant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anafthdev_" height="30" width="40" /></a>
+<a href="https://instagram.com/programming_simplified" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naphl_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayant-kumar-262597171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="anaf naufalian" height="30" width="40" /></a>
+</p>
+<a href="https://stackoverflow.com/users/9741578/jayantkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" alt="anaf naufalian" height="30" width="40" /></a>
+</p>
+
+<a href="https://medium.com/@nameisjayant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="anaf naufalian" height="30" width="40" /></a>
+</p>
+
+
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&layout=compact" alt="agamkoradiya" />
 
