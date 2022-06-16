@@ -25,6 +25,11 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
 
 
 
+**My Activity**
+
+[![activity graph](https://github-readme-activity-graphs.herokuapp.com/graph?username=nameisjayant&custom_title=jayant%kumar's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/nameisjayant/github-readme-activity-graph)
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&layout=compact" alt="agamkoradiya" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=nameisjayant&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
