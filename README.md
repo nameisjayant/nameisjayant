@@ -26,17 +26,8 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
 
 
 **My Activity**
-<picture>
-<source 
-            srcset="https://github-readme-stats.vercel.app/api?username=nameisjayant&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=nameisjayant&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=nameisjayant&show_icons=true" />
-</picture>
+
+![jayant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nameisjayant&show_icons=true&bg_color=00000000)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nameisjayant&" alt="jayant" /></p>
