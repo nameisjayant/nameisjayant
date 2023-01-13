@@ -23,11 +23,34 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
 
 </p>
 
+## Reach me via 👇
+
+<p float="left">
+
+<a href="https://www.youtube.com/@ProgrammingSimplified0" title="Redirect to YouTube">
+    <img src="/assets/youtube.png" width="120" alt="YouTube" />
+  </a>
+  
+  <a href="https://twitter.com/nameisjayant" title="Redirect to Twitter">
+    <img src="/assets/twitter.png" width="120" alt="Twitter" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/jayant-kumar-262597171/" title="Redirect to LinkedIn">
+    <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://www.instagram.com/programming_simplified/" title="Redirect to Instagram">
+    <img src="/assets/instagram.png" width="120" alt="Instagram" />
+  </a>
+
+  <a href="https://www.medium.com/nameisjayant" title="Redirect to Dev.To">
+    <img src="/assets/dev.png" width="120" alt="Medium" />
+  </a>
+
+</p>
+
 
 
 **My Activity**
-
-![jayant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nameisjayant&show_icons=true&bg_color=00000000)
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nameisjayant&" alt="jayant" /></p>
