@@ -44,7 +44,7 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
   </a>
 
   <a href="https://www.medium.com/@nameisjayant" title="Redirect to Dev.To">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="120" alt="Medium" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="50" alt="Medium" />
   </a>
 
 </p>
