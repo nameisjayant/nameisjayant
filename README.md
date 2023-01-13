@@ -26,16 +26,17 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
 
 
 **My Activity**
-
-[![activity graph](https://github-readme-activity-graphs.herokuapp.com/graph?username=nameisjayant&theme=github-light&hide_border=true)](https://github.com/nameisjayant/github-readme-activity-graph)
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&layout=compact" alt="agamkoradiya" />
-
-![Jayant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nameisjayant&show_icons=true&theme=radical)
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&theme=black-blue" alt="nameisjayant"/>
+<picture>
+<source 
+            srcset="https://github-readme-stats.vercel.app/api?username=nameisjayant&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=nameisjayant&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=nameisjayant&show_icons=true" />
+</picture>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nameisjayant&" alt="jayant" /></p>
