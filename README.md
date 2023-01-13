@@ -9,7 +9,7 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
 - 📱 Mobile App developer.
 - 😍 Loves to write blogs and record videos for youtube ❤️
 
-**Connect with me 👇 **
+**Connect with me** 👇
 
 <p float="left">
 
