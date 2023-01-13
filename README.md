@@ -43,8 +43,8 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
     <img src="/assets/instagram.png" width="120" alt="Instagram" />
   </a>
 
-  <a href="https://www.medium.com/nameisjayant" title="Redirect to Dev.To">
-    <img src="/assets/dev.png" width="120" alt="Medium" />
+  <a href="https://www.medium.com/@nameisjayant" title="Redirect to Dev.To">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="120" alt="Medium" />
   </a>
 
 </p>
