@@ -35,7 +35,8 @@ _**LATEST UPDATE:**_ <i>Learning iOs development , kotlin multiplatform & jetpac
 
 </p>
 
-
+**My github stats**
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=nameisjayant&count_private=true&show_icons=true&theme=radical" />
 
 **My Activity**
 
