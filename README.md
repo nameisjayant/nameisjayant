@@ -15,9 +15,8 @@
 
 - 🚀 **Lead Mobile Engineer (AVP)** @ [Antino Labs](https://antino.com) — leading Android, iOS, React Native & Flutter across workspace, EV, POS, mobility and news products
 - 🏢 Built and maintain the **entire Awfis mobile suite** — 9 apps including the flagship Awfis app, Meeting Room, BPM, VMS, Care, POS, Cafe and Elevate
-- ✍️ **40+ articles** on Medium and a YouTube channel, **Programming Simplified**, reaching **10k+ developers** every month
+- ✍️ **200+ articles** on Medium and a YouTube channel, **Programming Simplified**, reaching **10k+ developers** every month
 - 🧑‍🎓 ***#SelfTaught*** developer — 5+ years shipping production mobile apps
-- 🔭 **Currently learning:** iOS development, Kotlin Multiplatform & Jetpack Compose
 - 💬 Ask me about Jetpack Compose, SwiftUI, React Native or Flutter architecture
 
 <br/>
