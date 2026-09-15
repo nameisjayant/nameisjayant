@@ -144,7 +144,7 @@
 
 ### 💌 Let's build something together
 
-**nameisjayant1@gmail.com**
+**nameisjayant@gmail.com**
 
 <sub>Designed & maintained with care · © 2026 Jayant Kumar</sub>
 
